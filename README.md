@@ -46,7 +46,7 @@
 ql repo https://github.com/mrabit/aliyundriveDailyCheck.git "autoSignin" "" "qlApi"
 ```
 
-<font color='red'>注意：依赖里面添加ql依赖：qlApi|ql </font>
+<font color=FF0000>注意：依赖里面添加ql依赖：qlApi|ql </font>
 
 ##### 新版本:
 
