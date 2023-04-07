@@ -46,6 +46,8 @@
 ql repo https://github.com/mrabit/aliyundriveDailyCheck.git "autoSignin" "" "qlApi"
 ```
 
+注意：依赖里面添加ql依赖：qlApi|ql
+
 ##### 新版本:
 
 `青龙面板 -> 订阅管理 -> 新建订阅`, 在名称输入框粘贴命令并执行
