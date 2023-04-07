@@ -43,7 +43,7 @@
 
 ```shell
 # 命令/脚本
-ql repo https://github.com/mrabit/aliyundriveDailyCheck.git "autoSignin" "" "qlApi"
+ql repo https://github.com/mrabit/aliyundriveDailyCheck.git "autoSignin" "" "qlApi|ql"
 ```
 
 <font color=FF0000>注意：依赖里面添加ql依赖：qlApi|ql </font>
